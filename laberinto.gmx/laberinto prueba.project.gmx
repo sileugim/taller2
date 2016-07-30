@@ -9,6 +9,7 @@
     <sound>sound\sound_diamante_</sound>
     <sound>sound\soundpuerta</sound>
     <sound>sound\soundmeta</sound>
+    <sound>sound\audy_fondo</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spritediamante</sprite>
@@ -30,16 +31,23 @@
     <sprite>sprites\spllaave4</sprite>
     <sprite>sprites\spllave5</sprite>
     <sprite>sprites\spMUROFANTASMA</sprite>
+    <sprite>sprites\spritecorazones</sprite>
+    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\sprite2gamover</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
+    <background>background\background2</background>
+    <background>background\fin</background>
+    <background>background\background4</background>
+    <background>background\background5</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\objdiamante</object>
     <object>objects\objpuerta</object>
-    <object>objects\objmeta</object>
+    <object>objects\objmeta1</object>
     <object>objects\objenemigo1</object>
     <object>objects\objemigo2</object>
     <object>objects\objenemigo3</object>
@@ -59,14 +67,30 @@
     <object>objects\objcandadopadre</object>
     <object>objects\objindex</object>
     <object>objects\OBJMUROFANTASMA</object>
+    <object>objects\objstar</object>
+    <object>objects\objgameover</object>
+    <object>objects\objmeta2</object>
+    <object>objects\objmeta3</object>
+    <object>objects\objmeta4</object>
+    <object>objects\objmeta5</object>
+    <object>objects\objreinicio</object>
+    <object>objects\object29</object>
+    <object>objects\object30</object>
+    <object>objects\object31</object>
+    <object>objects\objsnido</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\inicio</room>
     <room>rooms\nivel_1</room>
     <room>rooms\nivel_2</room>
+    <room>rooms\perdiste_1</room>
     <room>rooms\NIVEL_3</room>
+    <room>rooms\perdiste2</room>
     <room>rooms\nivel_4</room>
+    <room>rooms\perdiste3</room>
     <room>rooms\nivel_5</room>
+    <room>rooms\perdiste4</room>
+    <room>rooms\felicidades</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

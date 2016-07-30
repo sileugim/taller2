@@ -7,7 +7,7 @@
   <hsnap>32</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
-  <persistent>0</persistent>
+  <persistent>-1</persistent>
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
   <code></code>
@@ -120,7 +120,7 @@
     <instance objName="objmuro" x="256" y="32" name="inst_FFE8EFFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objllave1" x="96" y="32" name="inst_ABF6B0CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objllave4" x="224" y="32" name="inst_2573857B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objmeta" x="416" y="256" name="inst_B7C36C19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objmeta1" x="416" y="256" name="inst_B7C36C19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obtjugador" x="32" y="256" name="inst_E4146472" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objcandado1" x="128" y="256" name="inst_C821EA19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objcandado4" x="256" y="256" name="inst_3F807C7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (keyboard_check_pressed(vk_anykey))
-{room_goto(nivel_1);}
+            <string>if(keyboard_check(vk_anykey))
+{room_goto_previous();}
 </string>
           </argument>
         </arguments>
