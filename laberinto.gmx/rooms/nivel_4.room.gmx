@@ -217,7 +217,7 @@
     <instance objName="objmuro" x="128" y="128" name="inst_B1CEDC7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="160" y="128" name="inst_1EB35BE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="224" y="128" name="inst_66431587" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objmuro" x="288" y="128" name="inst_FAD97BEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objmuro" x="256" y="128" name="inst_FAD97BEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="320" y="128" name="inst_7EAAA9C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="352" y="128" name="inst_F833FD4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="384" y="128" name="inst_096667E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -229,9 +229,9 @@
     <instance objName="objcandado4" x="224" y="96" name="inst_F262D568" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objcandado4" x="224" y="64" name="inst_6D7712A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objcandado4" x="224" y="32" name="inst_65729A0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objcandado5" x="288" y="96" name="inst_240391D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objcandado5" x="288" y="64" name="inst_DB9A86CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objcandado5" x="288" y="32" name="inst_C84D7A7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado5" x="320" y="96" name="inst_240391D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado5" x="320" y="64" name="inst_DB9A86CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado5" x="320" y="32" name="inst_C84D7A7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="480" y="160" name="inst_4D4764BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmuro" x="544" y="160" name="inst_4DE5838A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obtjugador" x="512" y="32" name="inst_45356779" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -248,13 +248,16 @@
     <instance objName="objllave4" x="320" y="320" name="inst_8E47E3A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objllave3" x="128" y="320" name="inst_E59C9982" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objemigo2" x="192" y="128" name="inst_98BCDE3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objemigo2" x="256" y="32" name="inst_06B6480E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objemigo2" x="288" y="32" name="inst_06B6480E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objenemigo1" x="448" y="352" name="inst_CF4CC883" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objenemigo1" x="576" y="256" name="inst_0BEA83FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objenemigo3" x="288" y="192" name="inst_00177DC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objenemigo3" x="96" y="192" name="inst_0FC6C1AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objenemigo3" x="160" y="416" name="inst_457A1D48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objmeta4" x="96" y="64" name="inst_00D8032A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado4" x="256" y="96" name="inst_15F0B090" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado4" x="256" y="64" name="inst_464DC8A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objcandado4" x="256" y="32" name="inst_65742432" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
