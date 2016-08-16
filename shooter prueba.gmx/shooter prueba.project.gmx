@@ -25,6 +25,8 @@
     <sprite>sprites\sp_enemy4</sprite>
     <sprite>sprites\sp_enemybullet1</sprite>
     <sprite>sprites\sp_enemybullet2</sprite>
+    <sprite>sprites\sp_powerup</sprite>
+    <sprite>sprites\sprite16</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -38,6 +40,7 @@
     <object>objects\obj_player</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_enemy1</object>
+    <object>objects\obj_powerup</object>
     <object>objects\obj_enemy4</object>
     <object>objects\obj_enemy2</object>
     <object>objects\obj_enemy3</object>
@@ -47,6 +50,7 @@
     <object>objects\obj_controller_life</object>
     <object>objects\obj_enemybullet1</object>
     <object>objects\obj_enemybullet2</object>
+    <object>objects\obj_prueba</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
